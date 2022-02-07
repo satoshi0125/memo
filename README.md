@@ -1,14 +1,12 @@
 ## memo
 
 ## TODO
----
 - summary PCA
 - summary ICA
 - summary signal preprocessing
 
 
 ## valuable infomation that can be used for all of you
----
 - create power point documents
   - [illustrations](https://undraw.co/illustrations)
 

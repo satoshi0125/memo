@@ -1,18 +1,19 @@
 ## memo
 
 ## TODO
-- summary PCA
-- summary ICA
-- summary signal preprocessing
+- Trelloにてタスクベースで管理
 
 
 ## valuable infomation that can be used for all of you
-- create power point documents
-  - [illustrations](https://undraw.co/illustrations)
+- for creation power point documents
+  - [undraw](https://undraw.co/illustrations)
+  - [iccoon](https://icooon-mono.com/)
+  - [storyset](https://storyset.com/)
+  - [ちょうどいいイラスト](https://tyoudoii-illust.com/)
 
 - Git
   - [Git introduction for researcher](https://speakerdeck.com/deepflow/yan-jiu-zhe-falsetamefalsegitru-men?slide=33)
-  - 
+  - [Git hands-on](https://speakerdeck.com/brainpadpr/git-hands-on?slide=17)
 
 
 - Response to reviewers を書く10の基本ルール
@@ -27,3 +28,6 @@
     8. 可能な限り指示に従う
     9. 変更点を明示する
     10. 寝かせて修正する
+
+- Ref.
+  - [開発アイデア](https://qiita.com/MasatoraAtarashi/items/eec4642fe1e6ce79304d)
